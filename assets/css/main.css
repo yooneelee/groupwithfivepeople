@@ -723,6 +723,7 @@ input, select, textarea {
 	.image1 {
 		width:70px;
  		height:70px;
+		border-radius: 50%;
 		float: left;
 	}
 
