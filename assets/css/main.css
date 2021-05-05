@@ -725,6 +725,7 @@ input, select, textarea {
  		height:70px;
 		border-radius: 30px;
 		float: left;
+		padding: 10px;
 	}
 
 /* List */
